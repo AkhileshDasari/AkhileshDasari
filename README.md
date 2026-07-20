@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="./bakugo.gif" alt="Demo" width="600">
+  <img src="./kacchan.jpg" alt="Image" width="700"/>
 </p>
 <br/>
 
