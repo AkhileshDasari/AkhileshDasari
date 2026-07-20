@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="kacchan.jpg" alt="Image" width="700"/>
+  <img width="498" height="280" alt="Image" src="https://github.com/user-attachments/assets/06c205d2-e7b4-4d19-a4cd-1a46892934f9" />
 </p>
 <br/>
 
