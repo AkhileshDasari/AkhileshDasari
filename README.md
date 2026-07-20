@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="./kacchan.jpg" alt="Image" width="700"/>
+  <img src="kacchan.jpg" alt="Image" width="700"/>
 </p>
 <br/>
 
