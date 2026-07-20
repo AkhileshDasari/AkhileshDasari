@@ -1,7 +1,9 @@
 <div align="center">
 
 
-
+<p align="center">
+  <img src="./bakugo.gif" alt="Demo" width="600">
+</p>
 <br/>
 
 # Dasari Sai Akhilesh
