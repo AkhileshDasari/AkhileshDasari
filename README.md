@@ -6,8 +6,6 @@
 </p>
 <br/>
 
-# Dasari Sai Akhilesh
-
 <p align="center">
   <kbd>Full Stack Developer</kbd> &nbsp;•&nbsp; <kbd>Python</kbd> &nbsp;•&nbsp; <kbd>Machine Learning</kbd>
 </p>
